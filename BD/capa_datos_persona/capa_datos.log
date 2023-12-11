@@ -1,0 +1,5 @@
+DEBUG:root:Mensaje a nivel debug
+INFO:root:Mensaje a nivel info
+WARNING:root:Mensaje a nivel warning
+ERROR:root:Mensaje a nivel error
+CRITICAL:root:Mensaje a nivel critico
